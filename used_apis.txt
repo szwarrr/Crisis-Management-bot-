@@ -1,0 +1,3 @@
+- NVidia Embedding API (NV-Embed-QA)
+- LangChain Retrieval QA
+- Telegram Bot API

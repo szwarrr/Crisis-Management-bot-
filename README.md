@@ -45,7 +45,3 @@ http://127.0.0.1:8000/docs
 1. Connect your **data sources** (ERP, CCTV, GIS, IoT).
 2. Configure alert rules in `config.yaml`.
 3. Monitor crisis events and get real-time recommendations.
-
-
-
-Do you want me to also add a **sample architecture diagram (ASCII or image link)** inside the README so it looks more professional on GitHub?
